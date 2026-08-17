@@ -1,5 +1,5 @@
 /* 班主任智能工作台 Service Worker */
-const CACHE_NAME = 'banzhuren-workbench-20260817-114800';
+const CACHE_NAME = 'banzhuren-workbench-20260817-120544';
 const ASSETS = [
   './',
   './index.html',
